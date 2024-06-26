@@ -25,3 +25,5 @@ Routing: React Router
 Styling: TailwindCSS
 Persist Remote State Management: React Router
 UI State Management: Redux Toolkit
+
+Website: https://pizza-store-ten-snowy.vercel.app/
