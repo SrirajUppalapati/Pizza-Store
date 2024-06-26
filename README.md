@@ -1,3 +1,5 @@
+FAST REACT PIZZA CO.
+
 Welcome to Pizza Store a user-friendly application designed to make your pizza ordering experience as simple and enjoyable as possible.
 
 How it works
